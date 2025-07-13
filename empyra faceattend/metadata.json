@@ -1,0 +1,8 @@
+{
+  "name": "Final 1",
+  "description": "A web admin dashboard for a mobile attendance system using face recognition and GPS. It includes student management, attendance tracking, alerts, and a subscription system.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
